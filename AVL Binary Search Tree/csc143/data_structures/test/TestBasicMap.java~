@@ -1,0 +1,14 @@
+package csc143.data_structures.test;
+
+// imports for testings
+import org.junit.*;
+import static org.junit.Assert.*;
+
+/**
+ * Tests a Basic Tree Map
+ * @author Minhhue H. Khuu
+ * @version Assignment 11: Simple Map
+ */
+public class TestBasicMap {
+  
+}
